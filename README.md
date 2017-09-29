@@ -13,8 +13,8 @@ Changed all querySelector to getElementById to more efficient.
 Changed all querySelector to getElementByClassName to more efficient.
 Moved the dx , newWidth out of for loop in the changePizzaSizes.
 reduced the amount of pizza animation.
-reduced the amount of animation pizzas dynamically dependent on window width
-To view the site on github demo
+reduced the amount of animation pizzas dynamically dependent on window width.
+
 
 Part 1: Optimize PageSpeed Insights score for index.html
 
@@ -29,7 +29,7 @@ Download and install ngrok to the top-level of your project directory to make yo
 $> cd /path/to/your-project-folder
 $> ./ngrok http 8080
 Copy the public URL ngrok gives you and try running it through PageSpeed Insights! Optional: More on integrating ngrok, Grunt and PageSpeed.
-Profile, optimize, measure... and then lather, rinse, and repeat. Good luck!
+Profile, optimize, measure... and then lather, rinse, and repeat.
 
 Part 2: Optimize Frames per Second in pizza.html
 
